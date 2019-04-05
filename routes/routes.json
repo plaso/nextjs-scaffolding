@@ -1,0 +1,4 @@
+{
+  "home": { "pattern": "/", "page": "Home" },
+  "about": { "pattern": "/about", "page": "About" }
+}
